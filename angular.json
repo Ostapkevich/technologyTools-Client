@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/technology_tools",
+            "outputPath": "dist/tehcnology_tools",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
